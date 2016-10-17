@@ -1,3 +1,4 @@
+#regex
 import urllib
 response = urllib.urlopen('http://python.org/')
 _html = response.read()
